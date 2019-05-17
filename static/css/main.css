@@ -23,6 +23,10 @@
 
 
 /*  Fonts  */
+body { 
+	background: url(../img/hinh-nen-co-ba-la-dep_090322440.jpg);
+}
+
 @font-face {
     font-family: 'open_regular';
     src: url('../fonts/opensans-regular.eot');
@@ -34,7 +38,6 @@
     font-style: normal;
 
 }
-
 
 @font-face {
     font-family: 'open_bold';
