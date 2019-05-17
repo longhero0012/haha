@@ -25,6 +25,11 @@
 /*  Fonts  */
 body { 
 	background: url(../img/hinh-nen-co-ba-la-dep_090322440.jpg);
+
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
 }
 
 @font-face {
